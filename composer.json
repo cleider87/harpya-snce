@@ -1,0 +1,13 @@
+{
+    "name": "cleider87/harpya-snce",
+    "description": "Harpya SNCE v3.0 es una plataforma de monitoreo de PKI, capaz de realizar un seguimiento automatizado de los elementos públicos de las mismas",
+    "authors": [
+        {
+            "name": "cleider",
+            "email": "cleider87@gmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "^2.2"
+    }
+}
