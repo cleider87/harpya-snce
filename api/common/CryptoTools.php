@@ -1,6 +1,6 @@
 <?php
 
-namespace api\common;
+namespace harpya\common;
 
 /**
  * Description of CryptoTools

@@ -1,6 +1,6 @@
 <?php
 
-namespace api\resources;
+namespace harpya\resources;
 
 /**
  * Description of UserResources

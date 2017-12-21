@@ -1,6 +1,6 @@
 <?php
 
-namespace api\business;
+namespace harpya\business;
 
 /**
  * Description of CertificateAuthorityBusiness

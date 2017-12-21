@@ -1,6 +1,6 @@
 <?php
 
-namespace api\middleware;
+namespace harpya\middleware;
 
 /**
  * Description of Business

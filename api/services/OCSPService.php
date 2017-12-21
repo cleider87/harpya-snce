@@ -1,6 +1,6 @@
 <?php
 
-namespace api\services;
+namespace harpya\services;
 
 /**
  * Description of OCSPService
